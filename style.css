@@ -2,6 +2,18 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
+#sign-section{
+    margin-top: 50px;
+    margin-right: 5%;
+    text-align: right;
+}
+.sign-btn{
+    border: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+}
 h1{
     font-size: 60px;
 }
@@ -73,6 +85,23 @@ h2{
 .social-media-item{
     width: 30%;
     margin-left: 10%;
+}
+#comment-section{
+    margin-left: 5%;
+    padding-bottom: 100px;
+    text-align: center;
+}
+#input-comment{
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+#comment-btn{
+    border: none;
+    background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
 }
 #bottom-section{
     background-color: #0b0e17;
