@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 30px;
+}
+.container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 100px;
+}
+.orange-color{
+    color: orange;
+}
+.gray-color{
+    color: #5b5b5b;
+}
+.anchor-btn{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(90deg, orange, tomato);
+    border-radius: 20px;
+    font-weight: 700;
+}
+.white-color{
+    color: white;
+}
+#top-image{
+    width: 80%;
+}
+.about-section-bg{
+    background-image: url(images/shape/7.png);
+    background-repeat: no-repeat;
+    width: fit-content;
+}
+.about-section-bg img{
+    width: 50%;
+}
+.text-center{
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 30px;
+}
+.one-third-width{
+    width: 23.3333%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+}
+.one-third-width img{
+    width: 100%;
+}
+#social-media-container{
+    box-shadow: 10px 10px 30px darkgray;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 50px 100px;
+}
+.social-media-item{
+    width: 30%;
+    margin-left: 10%;
+}
+#bottom-section{
+    background-color: #0b0e17;
+}
